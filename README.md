@@ -1,6 +1,6 @@
 # data-analytics-portfolio
 Portfolio for Data Science Program
 
-##SQL
+## SQL
 ## STATISTICS
 ## Visual Communications
